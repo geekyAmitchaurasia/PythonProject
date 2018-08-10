@@ -110,4 +110,6 @@ def main():
 if __name__ == '__main__':
     main()
 
-print("check")
+
+print("hi")
+print("hello")
