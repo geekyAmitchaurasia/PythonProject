@@ -111,6 +111,3 @@ if __name__ == '__main__':
     main()
 
 
-print("hi")
-print("hello")
-print("kya")
