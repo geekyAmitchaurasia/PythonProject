@@ -66,3 +66,4 @@ For test purpose:
     4. backup_files('D', 'backup_project')
     5. move_folder(pardir+'\\'+'test.txt', 'D', 'name')
 """
+print("hello")
